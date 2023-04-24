@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9c7f25cd-a751-483c-b440-01c43152c071" name="tsinghua">
+        <fileTransfer rootFolder="/home/tangning/" accessType="SFTP" host="101.6.56.193" port="12345" sshConfigId="f2d49f27-310f-42e0-9306-85ec733a982c" sshConfig="tangning@101.6.56.193:12345 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
