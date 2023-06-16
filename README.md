@@ -97,21 +97,4 @@ python test_sceneflow.py
 
 ![image](https://github.com/gangweiX/ACVNet/blob/main/imgs/acv_result.png)
 
-# Citation
 
-If you find this project helpful in your research, welcome to cite the paper.
-
-```
-@inproceedings{xu2022attention,
-  title={Attention Concatenation Volume for Accurate and Efficient Stereo Matching},
-  author={Xu, Gangwei and Cheng, Junda and Guo, Peng and Yang, Xin},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={12981--12990},
-  year={2022}
-}
-
-```
-
-# Acknowledgements
-
-Thanks to Xiaoyang Guo for opening source of his excellent work GwcNet. Our work is inspired by this work and part of codes are migrated from [GwcNet](https://github.com/xy-guo/GwcNet).
